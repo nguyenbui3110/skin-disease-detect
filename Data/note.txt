@@ -1,0 +1,8 @@
+AK - Actinic Keratosis
+BCC - Basal Cell Carcinoma
+BKL - Benign Keratosis-Like Lesions
+DF - Dermatofibroma
+MEL - Melanoma
+NV - Nevi (nốt ruồi)
+SCC - Squamous Cell Carcinoma
+VASC - Vascular Lesions
