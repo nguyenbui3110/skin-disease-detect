@@ -79,7 +79,7 @@ def predict():
     # Classes
     classes =['Actinic keratosis(AK)', 'Basal cell carcinoma', 'Benign Keratosis-like Lesions (BKL)',
                 'Dermatofibroma', 'Melanoma', 'Nevi', 'Squamous Cell Carcinoma', 'Vascular Lesions',
-                'ance', 'eczema', 'psoriasis']
+                'acne', 'eczema', 'psoriasis']
 
     # Predicted class
     pred_class = classes[class_idx]
