@@ -18,12 +18,6 @@
         "Topical medications (such as imiquimod) - stimulates the immune system to attack the lesion.",
         "Shave excision - shaving off the lesion with a surgical blade."
     ],
-    "Atopic dermatitis(Eczema)": [
-        "Emollients - moisturizers that help to repair the skin barrier and reduce dryness.",
-        "Topical corticosteroids - reduce inflammation and itching.",
-        "Oral antihistamines - reduce itching and improve sleep.",
-        "Light therapy (phototherapy) - exposing the skin to specific types of light to reduce inflammation."
-    ],
     "Actinic keratosis(AK)": [
         "Cryotherapy - using liquid nitrogen to freeze off the lesion.",
         "Topical medications (such as imiquimod) - stimulates the immune system to attack the lesion.",
@@ -42,12 +36,34 @@
         "Topical calcineurin inhibitors (such as tacrolimus or pimecrolimus) -reduce inflammation and itching, particularly for sensitive areas like the face and neck.",
         "Phototherapy (UVB light therapy) - slows down skin cell turnover and reduces inflammation."
     ],
-
-    "Tinea (Ringworm)": [
-        "Antifungal creams, ointments or powders (such as clotrimazole, miconazole or terbinafine) - applied to the affected area for 2-4 weeks to kill the fungus.",
-        "Oral antifungal medications (such as terbinafine or fluconazole) - prescribed for more severe or resistant cases.",
-        "Keeping the affected area clean and dry - to prevent the fungus from spreading.",
-        "Avoiding sharing personal items - such as towels, clothing, and combs to prevent the spread of the fungus to others.",
-        "Washing clothes and bedding in hot water and drying them in a hot dryer - to kill any fungus that may be present."
+    "Dermatofibroma": [
+        "Surgical excision - removal of the dermatofibroma and surrounding tissue.",
+        "Cryotherapy - using liquid nitrogen to freeze off the dermatofibroma.",
+        "Laser therapy - using a laser to destroy the dermatofibroma.",
+        "Shave excision - shaving off the dermatofibroma with a surgical blade."
+    ],
+    "Squamous Cell Carcinoma": [
+        "Surgical excision - removal of the tumor and surrounding tissue.",
+        "Mohs surgery - a specialized procedure to remove the cancerous tissue layer by layer, minimizing damage to healthy tissue.",
+        "Radiation therapy - using high-energy radiation to destroy cancer cells.",
+        "Topical chemotherapy - applying a cream or lotion containing medication to kill cancer cells."
+    ],
+    "Nevi": [
+        "Monitoring for changes in size, shape, or color - to detect any potential signs of melanoma.",
+        "Surgical excision - removal of the nevus if it is atypical or concerning for melanoma.",
+        "Laser therapy - using a laser to remove the nevus.",
+        "Cryotherapy - using liquid nitrogen to freeze off the nevus."
+    ],
+    "Vascular Lesions": [
+        "Laser therapy - using a laser to target and destroy the blood vessels causing the lesion.",
+        "Sclerotherapy - injecting a solution into the blood vessels to cause them to collapse and fade.",
+        "Electrocautery - using an electric needle to destroy the blood vessels causing the lesion.",
+        "Surgical excision - removal of the lesion and surrounding tissue."
+    ],
+    "eczema": [
+        "Topical corticosteroids - reduce inflammation and itching.",
+        "Topical calcineurin inhibitors (such as tacrolimus or pimecrolimus) - reduce inflammation and itching, particularly for sensitive areas like the face and neck.",
+        "Topical phosphodiesterase-4 inhibitors (such as crisaborole) - reduce inflammation and itching.",
+        "Topical barrier repair creams - help repair and protect the skin barrier."
     ]
     }
